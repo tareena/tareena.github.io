@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, <a href="https://mgshss.lums.edu.pk/economics/">Chaudhry Nazar Muhammad Department of Economics</a>, <a href="https://lums.edu.pk/">LUMS</a>
+subtitle: Assistant Professor, <a href="https://mgshss.lums.edu.pk/economics/">Chaudhry Nazar Muhammad Department of Economics</a>, <a href="https://lums.edu.pk/">Lahore University of Management Sciences</a>
 
 profile:
   align: right
