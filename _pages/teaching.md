@@ -2,14 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+I served as the instructor for the following classes:
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Georgia State University
 
-{% include courses.liquid %}
+- ECON 4350 - Economics of Poverty & Public Policy ([Fall 2018](https://tareena.github.io/files/econ4350.pdf))
+- ECON 4950 - Econometrics and Applications ([Fall 2017](https://tareena.github.io/files/econ4950.pdf))
+
+### Lahore University of Management Sciences
+
+- ECON 261 - Principles of Finance ([Fall 2010, Spring 2011, Fall 2011, Fall 2012](https://tareena.github.io/files/econ261.pdf))
+- ECON 363 - Economics of Investment and Finance ([Fall 2010, Spring 2011, Fall 2011, Fall 2012](https://tareena.github.io/files/econ363.pdf))
+- ECON 334 - Time Series Econometrics ([Spring 2012](https://tareena.github.io/files/econ334.pdf))
+- ECON 352 - International Finance ([Spring 2012](https://tareena.github.io/files/econ352.pdf))
+
+### Lahore School of Economics
+
+- ECO 102 - Introduction to Macroeconomics ([Spring 2010](https://tareena.github.io/files/eco102.pdf))
