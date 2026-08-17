@@ -51,7 +51,7 @@ nav_order: 2
 
 **Tareena Musaddiq, Sophie Bright, Kate Place, George Smith, Breyon Williams, Beth Holland, Megan Benay, and Beth Rabbitt.** [Innovative Approaches to Learning Acceleration Within the Core of K-12 Instruction: Initial Observations About Scaling and Implementation.](https://practices-assets.learningaccelerator.org/artifacts/pdf_files/Innovative-Approaches-to-Learning-Acceleration-Within-the-Core-of-K-12-Instruction.pdf) Mathematica and The Learning Accelerator, March 2025.
 
-**Emily Forrester, Connor J. Rooney, Tareena Musaddiq, Jean Knab, Julieta Lugo-Gil, Russell Cole, Lexi Ouellette, Erich Denk, Juliette Henke, Brandon Hollie, Lara Hulsey, and Jamie Manzer.** [Updated Findings from the HHS Teen Pregnancy Prevention Evidence Review.](https://www.healthyteennetwork.org/resources/updated-findings-hhs-teen-pregnancy-prevention-evidence-review/) U.S. Department of Health and Human Services, September 2024.
+**Emily Forrester, Connor J. Rooney, Tareena Musaddiq, Jean Knab, Julieta Lugo-Gil, Russell Cole, Lexi Ouellette, Erich Denk, Juliette Henke, Brandon Hollie, Lara Hulsey, and Jamie Manzer.** Updated Findings from the HHS Teen Pregnancy Prevention Evidence Review. U.S. Department of Health and Human Services, September 2024.
 
 **Jordy Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** [Michigan Transitional Kindergarten: Impacts on Early Education Enrollment and Student Achievement through Third Grade.](https://edpolicy.umich.edu/sites/default/files/2024-11/epi-tk-policy-brief-nov-2024.pdf) Policy Brief. Ann Arbor, MI: Education Policy Initiative, July 2024.
 
