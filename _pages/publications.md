@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Publications
 
-**Jordan Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** Impacts of Michigan Transitional Kindergarten through Third Grade. *Child Development*, vol.97, no.4, 2026, pp.1348-1365. [https://doi.org/10.1093/chidev/aacag075] (https://doi.org/10.1093/chidev/aacag075)
+**Jordan Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** Impacts of Michigan Transitional Kindergarten through Third Grade. *Child Development*, 2026, Accepted. [https://doi.org/10.1093/chidev/aacag075](https://doi.org/10.1093/chidev/aacag075)
 
 **Jordan Berne, Katia Cordoba Garcia, Brian Jacob, Tareena Musaddiq, Samuel Owusu, Anna Shapiro, and Christina Weiland.** Transitional Kindergarten: The New Kid on the Early Learning Block. *Educational Researcher*, vol. 54, no. 4, 2025, pp. 177-187. [https://doi.org/10.3102/0013189X251318334](https://doi.org/10.3102/0013189X251318334)
 \[[Policy Brief](https://edpolicy.umich.edu/research/epi-policy-briefs/michigan-transitional-kindergarten-first-look-program-reach-and-features)\]
@@ -18,7 +18,7 @@ nav_order: 2
 
 **Jordan Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** The Effect of Early Childhood Programs on Third-Grade Test Scores: Evidence from Transitional Kindergarten in Michigan. *AEA Papers & Proceedings*, vol. 114, 2024, pp. 480-485. [https://doi.org/10.1257/pandp.20241081](https://doi.org/10.1257/pandp.20241081)
 
-**Will Davis, Dan Kriesman, and Tareena Musaddiq.** The Effect of Universal Free School Meals on Child BMI. *Education Finance and Policy*, vol. 19, no. 3, 2024, pp. 461-491. [https://doi.org/10.1162/edfp_a_00409](https://doi.org/10.1162/edfp_a_00409)
+**Will Davis, Dan Kriesman, and Tareena Musaddiq.** The Effect of Free School Meals on BMI and Student Attendance. *Education Finance and Policy*, vol. 19, no. 3, 2024, pp. 461-491. [https://doi.org/10.1162/edfp_a_00409](https://doi.org/10.1162/edfp_a_00409)
 \[Media coverage: [NPR](https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students), [Chalkbeat](https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/)\]
 
 **Tareena Musaddiq, Alexa Prettyman, and Jonathan Smith.** Using Existing School Messaging Platforms to Inform Parents About Their Child's Attendance. *Journal of Research on Educational Effectiveness*, 2023. [https://doi.org/10.1080/19345747.2023.2264841](https://doi.org/10.1080/19345747.2023.2264841)
@@ -57,14 +57,14 @@ nav_order: 2
 
 **Matthew Johnson, Jeffrey Max, Tareena Musaddiq, Breyon Williams, Silvia Robles, and Michelle Bennett.** Evaluation of the Networks for School Improvement Initiative. Princeton, NJ: Mathematica, April 2024.
 
-**Andrew Bacher-Hicks, Tareena Musaddiq, Joshua Goodman, and Kevin Stange.** The Stickiness of Pandemic-Driven Disenrollment from Public Schools. Policy Brief. Boston: Boston University Wheelock College of Education and Human Development, Wheelock Educational Policy Center, August 2023.
+**Andrew Bacher-Hicks, Tareena Musaddiq, Joshua Goodman, and Kevin Stange.** [The Stickiness of Pandemic-Driven Disenrollment from Public Schools.](https://tareena.github.io/files/pandemic-disenrollment-policy-brief.pdf) Policy Brief. Boston: Boston University Wheelock College of Education and Human Development, Wheelock Educational Policy Center, August 2023.
 
 **Tareena Musaddiq and Adam Dunn.** [Using an Automated Writing Feedback Tool: Insights on Ecree for Students and Families.](https://www.mathematica.org/publications/using-an-automated-writing-feedback-tool-insights-on-ecree-for-students-and-families) Princeton, NJ: Mathematica, July 2023.
 
 **Tareena Musaddiq and Adam Dunn.** [Teaching and Learning Writing: Insights for School and District Leaders.](https://www.mathematica.org/publications/teaching-and-learning-writing-with-ecree-insights-for-school-and-district-leaders) Princeton, NJ: Mathematica, July 2023.
 
-**Anna Shapiro, Jordy Berne, Katia Cordoba Garcia, Brian Jacob, Tareena Musaddiq, Samuel Owusu, and Christina Weiland.** Michigan Transitional Kindergarten: A First Look at Program Reach and Features. Policy Brief. Ann Arbor, MI: Education Policy Initiative, January 2022.
+**Anna Shapiro, Jordy Berne, Katia Cordoba Garcia, Brian Jacob, Tareena Musaddiq, Samuel Owusu, and Christina Weiland.** [Michigan Transitional Kindergarten: A First Look at Program Reach and Features.](https://edpolicy.umich.edu/research/epi-policy-briefs/michigan-transitional-kindergarten-first-look-program-reach-and-features) Policy Brief. Ann Arbor, MI: Education Policy Initiative, January 2022.
 
-**Tareena Musaddiq, Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman.** The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools. Policy Brief. Ann Arbor, MI: Education Policy Initiative, September 2021.
+**Tareena Musaddiq, Kevin Stange, Andrew Bacher-Hicks, and Joshua Goodman.** [The Pandemic's Effect on Demand for Public Schools, Homeschooling, and Private Schools.](https://tareena.github.io/files/pandemic-effect-policy-brief.pdf) Policy Brief. Ann Arbor, MI: Education Policy Initiative, September 2021.
 
-**Tareena Musaddiq, Alexa Prettyman, and Jonathan Smith.** School Messaging Platforms and Student Attendance. Policy Brief. Atlanta: Metro Atlanta Policy Lab for Education, July 2020.
+**Tareena Musaddiq, Alexa Prettyman, and Jonathan Smith.** [School Messaging Platforms and Student Attendance.](https://tareena.github.io/files/attend-policy-brief.pdf) Policy Brief. Atlanta: Metro Atlanta Policy Lab for Education, July 2020.
