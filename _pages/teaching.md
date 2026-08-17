@@ -18,8 +18,8 @@ nav_order: 3
 
 ### Georgia State University
 
-- ECON 4350 - Economics of Poverty & Public Policy ([Fall 2018](https://tareena.github.io/files/econ4350.pdf))
-- ECON 4950 - Econometrics and Applications ([Fall 2017](https://tareena.github.io/files/econ4950.pdf))
+- ECON 4350 - Economics of Poverty & Public Policy (Fall 2018)
+- ECON 4950 - Econometrics and Applications (Fall 2017)
 
 ### Lahore School of Economics
 
