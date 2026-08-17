@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Publications
 
-**Jordan Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** Impacts of Michigan Transitional Kindergarten through Third Grade. *Child Development*, 2026, Accepted. [https://doi.org/10.1093/chidev/aacag075](https://doi.org/10.1093/chidev/aacag075)
+**Jordan Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** Impacts of Michigan Transitional Kindergarten through Third Grade. *Child Development*, vol 97, no.4, 2026, pp. 1348-1365. [https://doi.org/10.1093/chidev/aacag075](https://doi.org/10.1093/chidev/aacag075)
 
 **Jordan Berne, Katia Cordoba Garcia, Brian Jacob, Tareena Musaddiq, Samuel Owusu, Anna Shapiro, and Christina Weiland.** Transitional Kindergarten: The New Kid on the Early Learning Block. *Educational Researcher*, vol. 54, no. 4, 2025, pp. 177-187. [https://doi.org/10.3102/0013189X251318334](https://doi.org/10.3102/0013189X251318334)
 \[[Policy Brief](https://edpolicy.umich.edu/research/epi-policy-briefs/michigan-transitional-kindergarten-first-look-program-reach-and-features)\]
@@ -45,17 +45,15 @@ nav_order: 2
 
 ## Reports and Briefs
 
-**Matthew Johnson, Naihobe Gonzalez, Jeffrey Max, Tareena Musaddiq, Sophia Siefart, Michelle Bennett, and Ren Schlosser.** Evaluation of the Networks for School Improvement Initiative. Princeton, NJ: Mathematica, April 2026.
+**Matthew Johnson, Naihobe Gonzalez, Jeffrey Max, Tareena Musaddiq, Sophia Siefart, Michelle Bennett, and Ren Schlosser.** [Evaluation of the Networks for School Improvement Initiative.](https://www.mathematica.org/publications/evaluation-of-the-networks-for-school-improvement-initiative-student-outcomes-final-report) Princeton, NJ: Mathematica, April 2026.
 
-**Tareena Musaddiq, Kate Place, Debbie Reed, Wittney Tabackman, George Smith, Beth Holland, Megan Benay, and Beth Rabbitt.** Innovative Approaches to Learning Acceleration Within the Core of K-12 Instruction: Educator Insights into Scaling and Implementation. Mathematica and FullScale, August 2025.
+**Tareena Musaddiq, Kate Place, Debbie Reed, Wittney Tabackman, George Smith, Beth Holland, Megan Benay, and Beth Rabbitt.** [Innovative Approaches to Learning Acceleration Within the Core of K-12 Instruction: Educator Insights into Scaling and Implementation.](https://practices-assets.learningaccelerator.org/artifacts/pdf_files/Innovative-Approaches-to-Learning-Acceleration-Within-the-Core-of-K-12-Instruction.pdf) Mathematica and FullScale, August 2025.
 
-**Tareena Musaddiq, Sophie Bright, Kate Place, George Smith, Breyon Williams, Beth Holland, Megan Benay, and Beth Rabbitt.** Innovative Approaches to Learning Acceleration Within the Core of K-12 Instruction: Initial Observations About Scaling and Implementation. Mathematica and The Learning Accelerator, March 2025.
+**Tareena Musaddiq, Sophie Bright, Kate Place, George Smith, Breyon Williams, Beth Holland, Megan Benay, and Beth Rabbitt.** [Innovative Approaches to Learning Acceleration Within the Core of K-12 Instruction: Initial Observations About Scaling and Implementation.](https://practices-assets.learningaccelerator.org/artifacts/pdf_files/Innovative-Approaches-to-Learning-Acceleration-Within-the-Core-of-K-12-Instruction.pdf) Mathematica and The Learning Accelerator, March 2025.
 
-**Emily Forrester, Connor J. Rooney, Tareena Musaddiq, Jean Knab, Julieta Lugo-Gil, Russell Cole, Lexi Ouellette, Erich Denk, Juliette Henke, Brandon Hollie, Lara Hulsey, and Jamie Manzer.** Updated Findings from the HHS Teen Pregnancy Prevention Evidence Review. U.S. Department of Health and Human Services, September 2024.
+**Emily Forrester, Connor J. Rooney, Tareena Musaddiq, Jean Knab, Julieta Lugo-Gil, Russell Cole, Lexi Ouellette, Erich Denk, Juliette Henke, Brandon Hollie, Lara Hulsey, and Jamie Manzer.** [Updated Findings from the HHS Teen Pregnancy Prevention Evidence Review.](https://www.healthyteennetwork.org/resources/updated-findings-hhs-teen-pregnancy-prevention-evidence-review/) U.S. Department of Health and Human Services, September 2024.
 
-**Jordy Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** Michigan Transitional Kindergarten: Impacts on Early Education Enrollment and Student Achievement through Third Grade. Policy Brief. Ann Arbor, MI: Education Policy Initiative, July 2024.
-
-**Matthew Johnson, Jeffrey Max, Tareena Musaddiq, Breyon Williams, Silvia Robles, and Michelle Bennett.** Evaluation of the Networks for School Improvement Initiative. Princeton, NJ: Mathematica, April 2024.
+**Jordy Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** [Michigan Transitional Kindergarten: Impacts on Early Education Enrollment and Student Achievement through Third Grade.](https://edpolicy.umich.edu/sites/default/files/2024-11/epi-tk-policy-brief-nov-2024.pdf) Policy Brief. Ann Arbor, MI: Education Policy Initiative, July 2024.
 
 **Andrew Bacher-Hicks, Tareena Musaddiq, Joshua Goodman, and Kevin Stange.** [The Stickiness of Pandemic-Driven Disenrollment from Public Schools.](https://tareena.github.io/files/pandemic-disenrollment-policy-brief.pdf) Policy Brief. Boston: Boston University Wheelock College of Education and Human Development, Wheelock Educational Policy Center, August 2023.
 
