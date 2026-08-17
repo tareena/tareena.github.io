@@ -18,7 +18,7 @@ nav_order: 2
 
 **Jordan Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** The Effect of Early Childhood Programs on Third-Grade Test Scores: Evidence from Transitional Kindergarten in Michigan. *AEA Papers & Proceedings*, vol. 114, 2024, pp. 480-485. [https://doi.org/10.1257/pandp.20241081](https://doi.org/10.1257/pandp.20241081)
 
-**Will Davis, Dan Kriesman, and Tareena Musaddiq.** The Effect of Free School Meals on BMI. *Education Finance and Policy*, vol. 19, no. 3, 2024, pp. 461-491. [https://doi.org/10.1162/edfp_a_00409](https://doi.org/10.1162/edfp_a_00409)
+**Will Davis, Dan Kriesman, and Tareena Musaddiq.** The Effect of Universal Free School Meals on Child BMI. *Education Finance and Policy*, vol. 19, no. 3, 2024, pp. 461-491. [https://doi.org/10.1162/edfp_a_00409](https://doi.org/10.1162/edfp_a_00409)
 \[Media coverage: [NPR](https://kjzz.org/content/639969/arizona-provision-could-result-free-lunches-students), [Chalkbeat](https://www.chalkbeat.org/posts/us/2018/05/04/free-school-lunch-for-all-meant-to-reduce-stigma-may-also-keep-students-healthier/)\]
 
 **Tareena Musaddiq, Alexa Prettyman, and Jonathan Smith.** Using Existing School Messaging Platforms to Inform Parents About Their Child's Attendance. *Journal of Research on Educational Effectiveness*, 2023. [https://doi.org/10.1080/19345747.2023.2264841](https://doi.org/10.1080/19345747.2023.2264841)
