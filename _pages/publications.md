@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Publications
 
-**Jordan Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** Impacts of Michigan Transitional Kindergarten through Third Grade. *Child Development*, vol.97, no.4, 2026, pp.1348-1365. [https://doi.org/10.1093/chidev/aacag075]
+**Jordan Berne, Brian Jacob, Tareena Musaddiq, Anna Shapiro, and Christina Weiland.** Impacts of Michigan Transitional Kindergarten through Third Grade. *Child Development*, vol.97, no.4, 2026, pp.1348-1365. [https://doi.org/10.1093/chidev/aacag075] (https://doi.org/10.1093/chidev/aacag075)
 
 **Jordan Berne, Katia Cordoba Garcia, Brian Jacob, Tareena Musaddiq, Samuel Owusu, Anna Shapiro, and Christina Weiland.** Transitional Kindergarten: The New Kid on the Early Learning Block. *Educational Researcher*, vol. 54, no. 4, 2025, pp. 177-187. [https://doi.org/10.3102/0013189X251318334](https://doi.org/10.3102/0013189X251318334)
 \[[Policy Brief](https://edpolicy.umich.edu/research/epi-policy-briefs/michigan-transitional-kindergarten-first-look-program-reach-and-features)\]
